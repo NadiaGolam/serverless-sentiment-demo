@@ -25,4 +25,4 @@ jobs:
 
     - name: Docker Build
       run: |
-        docker build -t sentiment-demo .
+        docker build -t sentiment-demo.
